@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Alphatech Bank accounts related local APIs "
+  message: "Welcome to Alphatech Bank accounts related DOCKER APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@alphatech.com"
