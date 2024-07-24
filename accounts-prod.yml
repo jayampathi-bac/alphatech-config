@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to alphatech accounts related PROD APIs "
+  message: "Welcome to alphatech accounts related WEBHOOK APIs "
   contactDetails:
     name: "Sarah Jane - Product Owner"
     email: "{cipher}49930d07368804614fd1961d96dbebe9b4cad9e768c86f531c220cf2f6525637907e6d1f4731b60b9319adbdb3cce1f5"
