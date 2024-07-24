@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Alphatech accounts related QA APIs "
+  contactDetails:
+    name: "Jane Doe - QA Lead"
+    email: "jane@alphatech.com"
+  onCallSupport:
+    - +94 71 5551 234
+    - +94 77 5551 234

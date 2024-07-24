@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Alphatech cards related QA APIs "
+  contactDetails:
+    name: "Jane Doe - QA Lead"
+    email: "jane@alphatech.com"
+  onCallSupport:
+    - +94 78 5551 234
+    - +94 70 5551 234

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to alphatech accounts related prod APIs "
+  contactDetails:
+    name: "Sarah Jane - Product Owner"
+    email: "sarah@alphatech.com"
+  onCallSupport:
+    - +94 71 5551 234
+    - +94 77 5551 234

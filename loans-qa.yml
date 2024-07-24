@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Alphatech Loans related QA APIs "
+  contactDetails:
+    name: "Jane Doe - QA Lead"
+    email: "jane@alphatech.com"
+  onCallSupport:
+    - +94 72 5551 224
+    - +94 74 5551 234

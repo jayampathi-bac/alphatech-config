@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Alphatech Bank Loans related local APIs "
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@alphatech.com"
+  onCallSupport:
+    - +94 71 5551 234
+    - +94 77 5551 234
