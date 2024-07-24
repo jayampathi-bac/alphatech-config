@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Alphatech Bank cards related PROD APIs "
+  message: "Welcome to Alphatech Bank cards related Production APIs "
   contactDetails:
     name: "Sarah Jane - Product Owner"
     email: "sarah@alphatech.com"
